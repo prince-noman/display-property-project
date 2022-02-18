@@ -1,3 +1,3 @@
-## Simple HTML CSS Display Property Porject
+## Simple HTML CSS Display Property Project
 
 <img src="./screenshot.png"/>
